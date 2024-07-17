@@ -1,0 +1,2 @@
+module TenhoChallengeHelper
+end
